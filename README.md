@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+# [이것저것 해보는 재밌는 놀이터]
+
+
 <!--
 **squirrel765/Squirrel765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Squirrel765&show_icons=true&theme=ambient_gradient&cache_seconds=1800&v=1)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Squirrel765&layout=compact&theme=dark)
