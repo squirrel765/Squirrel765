@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 -->
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=squirrel765&show_icons=true&theme=ambient_gradient&cache_seconds=1800&v=1)
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Squirrel765)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squirrel765&layout=compact&theme=dark)
